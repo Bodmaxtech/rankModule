@@ -1,0 +1,4 @@
+v1.0.0 - Initial release
+    - Created database schema for student ranks
+    - Implemented class-level and school-wide ranking
+    - Display ranks in a table format
